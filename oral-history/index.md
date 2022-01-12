@@ -1,34 +1,38 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
-
-## Use headings only if you want to have subsections in your essay
 
 
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly (though you can also use the `{.css-selector}` method ddescribed in the main readme.
-  - a particular use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole link in, as seen here: <a href="javascript:seek(75)"> seek to 1:15</a>.
-  - also, markdown-it supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
 
-    Footnote 1 link[^first].
+Perhaps amongst the most unsuccessful of contemporary battles fought by the United States is the War on Drugs, an ineffectual government initiative created in hopes of reducing illegal drug distribution and use across the state. Instead, the battle, rooted in racial and political motivations, has plagued the security and stability of the common person by burdening law enforcement structures through targeted and ineffective means of <em>justice</em>. Decades of failure since the 1970s has resulted in "the cost of drugs on the street remains low, and drugs remain widely available,"[^first] leading to generations of insurmountable damage to the lives of those targeted by these policies. Though some argue that the initiative was “a public health crusade,”[^second] <em>War on Drugs Policing and Police Brutality</em> author Hannah Cooper points out that through a statistical and historical analysis of the expansion of police powers, the War on Drugs is certainly an additional tool used by those in power to maintain a pre-existing racial hierarchy in the United States.[^third] Rooted in this and stories like Fred Davie and Robert Sanchez’s[^fourth] are decades of suffering, aimed at criminalization as opposed to the purpose of penitentiary systems: rehabilitation. 
 
-    Footnote 2 link[^second].
+The importance of addressing the impact of the War on Drugs intersectionally occurs across various American systems. In addition to a minimal impact on domestic drug activity, Cooper notes that the systems in charge of minimizing drug activity most often only “displace drug activity to other areas,”[^fifth] resulting in a further increase of drug-related violence. Of course, the solution to such was found to lie in the expansion of police powers. Though, the issue of the reliance on police authorities in minimizing drug activity lies in the history of policing in America, one which is heavily connected to race. In fact, the basis of police authority in the United States is found in <em>slave patrols</em>, as white men were given legal authority to “enter slaves’ homes at will,”[^sixth] in the quest to prevent riots and slaves from fleeing. Following the civil war, <em>Black codes</em> were established to further criminalize activities only considered petty offences for white people, resulting in the rapid growth of black inmates in prisons. It’s important to note the history of such, as it establishes grounds for finding themes and patterns through history.
 
-    Inline footnote^[Text of inline footnote] definition.
+The War on Drugs follows a similar path to this, but instead of being initiated by white property-owning men, it was done by the single person deemed most powerful at that time in the United States: President Richard Nixon. To make matters worse, the severity of punishment was significantly increased in 1982 by the following President, Robert Reagan[^seventh], who had been called out a few years earlier for referring to African United Nation delegates as “monkeys… still uncomfortable wearing shoes!”[^eigth] Whom which Nixon responded to by laughing. Perspectives like this allow us to understand the mindset of creators of generationally oppressive frameworks, who carry the torch in maintaining racial hierarchies. Nixon himself believed in a hierarchy where African and Latino people took place at the bottom of, which he noted “there are [less] geniuses within black groups”[^nineth] when comparing them to Asian people. His beliefs heavily impacted domestic and foreign policies, targeting those he believed inferior to himself. 
 
-    Duplicated footnote reference[^second].
+Now that we’ve established the existence of racially motivated policies, we can now address the impact of such on oloured communities within the United States. Firstly, Human Rights Watch research shows that though there are “five times more white drug users than black,” as people of colour make up 63.3 per cent of all drug offenders, while white people compose 36.7. [^tenth] People of colour alongside law enforcement and correction systems are burdened with the weight of nonviolent drug offences, placing people like Fred Davie alongside dangerous populations, as nonviolent drug crime incarcerations violent ones.[^eleventh] Speaking to his mentor, Davie jokes “I remember that you said that you had no arrests prior, nothing in your system, and nothing on you, and you got 15 years to life for a non-violent drug charge. But I thought, he’s making that up . . . It can’t be possible… right?”[^twelfth]
+
+And the system <em>has</em> acknowledged its injustices. In the 2nd Session of the 11th Congress, the House of Representatives acknowledged the failure of the policy, going as far as to apologize to “individuals and communities that were victimized by this policy.”[^thirteenth] The resolution noted specifically “despite mounting evidence, the Federal Government's approach to the abuse of drugs continued to be one of criminalizing drug abuse instead of treatment,”[fourteenth], nothing <em>no</em> focus on treating those violent; concluding that there was no connection found between marijuana and violent behaviours, which historically served as reasoning for criminalizing nonviolent drug offenders. Few are lucky like Fred Davie, who had Robert Sanchez as a supporter on the “outside” to help him navigate life after incarceration. This interaction between Robert and Fred highlights the lack of rehabilitation and repurpose support found:
+
+<em>RS</em>: When I came home I was so afraid, but I knew that I can pick up the phone and tell you, <em> Fred, I don’t get this shit</em>. I could just ask the dumbest questions ever, but you never told me they were dumb . . . I have that from you, but I didn’t have that from anywhere else, so . . . if I had somebody that was going to guide me, that was you.
+
+<em>FD</em>: Wow, thank you. Most folks who’ve been through what you’ve been through don’t get this far.[^fifteenth]
+
+The government acknowledgement of the unjust circumstances surrounding the policies enacted during the War on Drugs was made in <em>2018</em>, and since then little has been done to compensate victims of this racialized policy, or amend victims currently serving unreasonable sentences for nonviolent drug charges. Despite the legalization of marijuana in many states, marijuana offenses continue to account for more than any other drug,[^sixteenth] and offenders who were previously arrested for committing actions now deemed legal still suffer. The story of Fred Davie and Robert Sanchez highlight just two of the hundreds of thousands neglected by racialized law enforcement, throughout the <em>entire</em> process of incarceration. Though the process of rehabilitation starts within the penitentiary system, the importance of a support system in the “outside world” is crucial, and if systems of legal enforcement target those vulnerable from the start, then how can we have faith in a system attempting to provide security?
 
 
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-and remember tables, if you want them: 
-
-| heading | Heading |
-| ------| ----- |
-| content | content |
-| content | content |
-| content | content |
-{.striped}
+#### Footnotes 
+[^first]: Cooper Hannah LF. “War on Drugs Policing and Police Brutality.” <em>Substance Use & Misuse 50</em>, no. 8-9 (2015): 1188–94. [https://doi.org/10.3109/10826084.2015.1007669](https://doi.org/10.3109/10826084.2015.1007669).
+[^second]: Lopez, German. “Was Nixon's War on Drugs a Racially Motivated Crusade? It's a Bit More Complicated.” Vox. Vox, March 29, 2016. [https://www.vox.com/2016/3/29/11325750/nixon-war-on-drugs](https://www.vox.com/2016/3/29/11325750/nixon-war-on-drugs)
+[^third]: Cooper Hannah LF. “War on Drugs Policing and Police Brutality.” <em>Substance Use & Misuse 50</em>, no. 8-9 (2015): 1188–94. [https://doi.org/10.3109/10826084.2015.1007669](https://doi.org/10.3109/10826084.2015.1007669).
+[^fourth]: Bot, StoryCorps. “Fred Davie and Robert Sanchez.” StoryCorps NPR’s Morning Edition, December 1, 2016. [https://storycorps.org/stories/fred-davie-and-robert-sanchez-161202](https://storycorps.org/stories/fred-davie-and-robert-sanchez-161202/). 
+[^fifth]: Cooper Hannah LF. “War on Drugs Policing and Police Brutality.” <em>Substance Use & Misuse 50</em>, no. 8-9 (2015): 1188–94. [https://doi.org/10.3109/10826084.2015.1007669](https://doi.org/10.3109/10826084.2015.1007669). 
+[^sixth]: Ibid
+[^seventh]: Naftali, Tim. “Ronald Reagan's Long-Hidden Racist Conversation with Richard Nixon.” The Atlantic. Atlantic Media Company, July 31, 2019. [https://www.theatlantic.com/ideas/archive/2019/07/ronald-reagans-racist-conversation-richard-nixon/595102/](https://www.theatlantic.com/ideas/archive/2019/07/ronald-reagans-racist-conversation-richard-nixon/595102/).  
+[^eigth]: Ibid
+[^nineth]: Ibid
+[^tenth]: HRW. https://www.hrw.org/legacy/reports/2000/usa/Rcedrg00.htm
+[^eleventh]: Ibid
+[^twelfth]: Bot, StoryCorps. “Fred Davie and Robert Sanchez.” StoryCorps NPR’s Morning Edition, December 1, 2016. [https://storycorps.org/stories/fred-davie-and-robert-sanchez-161202](https://storycorps.org/stories/fred-davie-and-robert-sanchez-161202/). 
+[^thirteenth]: U.S. Congress, Journal of the House of Representatives of the United States, 115th Cong., 2nd sess., June 12, 2018. Res. 933.
+[^fourteenth]: Ibid.
+[^fifteenth]: Bot, StoryCorps. “Fred Davie and Robert Sanchez.” StoryCorps NPR’s Morning Edition, December 1, 2016. [https://storycorps.org/stories/fred-davie-and-robert-sanchez-161202](https://storycorps.org/stories/fred-davie-and-robert-sanchez-161202/). 
+[^sixteenth]: Wagner, Peter. “Mass Incarceration: The Whole Pie 2020.” Mass Incarceration: The Whole Pie 2020 | Prison Policy Initiative, March 24, 2020. [https://www.prisonpolicy.org/reports/pie2020.html](https://www.prisonpolicy.org/reports/pie2020.html).
